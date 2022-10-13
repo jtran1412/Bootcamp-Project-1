@@ -5,6 +5,9 @@
 - Dmytro Denysenko
 ## FinTech Bootcamp
 October 3rd 2022
+## installation instructions
+-you need to $ pip install yahoo-finance
+-you need to modify the path for the .csv file
 ### Motivation & Summary Slide
 80% of fund managers are not able to beat the market, but can we beat the market?
 Hypothesis : Team member Justin believed we can beat the stock market, Vidhi and Dmytro did not believe we can.
