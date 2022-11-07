@@ -5,7 +5,7 @@
 - Dmytro Denysenko
 
 ## Requirements
--you need to $ pip install yahoo-finance
+You need to $ pip install yahoo-finance
 
 ## Motivation 
 80% of fund managers are not able to beat the market, but can we beat the market?
