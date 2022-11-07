@@ -1,9 +1,8 @@
-# Bootcamp-Project-1
+# Bootcamp-Project-1-October 3rd 2022
 ## Project 1 – Can you beat the market?
 - Vidhi Mehta
 - Justin Tran
 - Dmytro Denysenko
-October 3rd 2022
 
 ## Requirements
 -you need to $ pip install yahoo-finance
