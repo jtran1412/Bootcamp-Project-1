@@ -7,7 +7,7 @@
 ## Requirements
 -you need to $ pip install yahoo-finance
 
-### Motivation 
+## Motivation 
 80% of fund managers are not able to beat the market, but can we beat the market?
 Hypothesis : Justin believed we can beat the stock market, Vidhi and Dmytro did not believe so.
 
