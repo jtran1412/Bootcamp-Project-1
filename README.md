@@ -83,6 +83,7 @@ betas_df[[“Beta 09/2012”,“Beta 09/2022"]].corr(method=‘pearson’)
 - Look at all outliers such as Tesla and see if we can find a commonality?
 - Does high beta stocks from 20 or 30 years ago outperform the market?
 
-## Summary: all high beta stock portfolios beat both the Nasdaq 100 and S&P 500 index
-One low beta stock portfolio beat high beta stock portfolio – Tesla
-Having a high beta 10 years ago doesn’t correlate with having a high beta now
+## Summary: 
+All high beta stock portfolios beat both the Nasdaq 100 and S&P 500 index.
+One low beta stock portfolio beat high beta stock portfolio – Tesla.
+Having a high beta 10 years ago doesn’t correlate with having a high beta now. (Note David disagreed and said that a correlation of 0.4 is actually a high correlation in the field of finance).
